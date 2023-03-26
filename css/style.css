@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header,main,footer,nav,section{
+    display: block;
+}
+header,footer{
+    width: 100%;
+    
+}
+a{
+    text-decoration: none;
+}
